@@ -1,0 +1,6 @@
+customer_id,name,email,phone,city
+1,John Doe,john@email.com,1234567890,Chicago
+2,Jane Smith,jane@email.com,9876543210,New York
+3,,bob@email.com,5555555555,Seattle
+2,Jane Smith,jane@email.com,9876543210,New York
+4,Alice Johnson,alice@email.com,4444444444,Boston
